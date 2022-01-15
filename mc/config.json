@@ -1,0 +1,12 @@
+{
+    "version": "10",
+    "aliases": {
+            "MC_LOCALE": {
+                    "url": "MC_URL",
+                    "accessKey": "MC_ACCESS_KEY",
+                    "secretKey": "MC_SECRET_KEY",
+                    "api": "s3v4",
+                    "path": "auto"
+            }
+    }
+}
