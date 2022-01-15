@@ -1,7 +1,7 @@
 {
     "version": "10",
     "aliases": {
-            "MC_LOCALE": {
+            "au-syd1-07": {
                     "url": "MC_URL",
                     "accessKey": "MC_ACCESS_KEY",
                     "secretKey": "MC_SECRET_KEY",
